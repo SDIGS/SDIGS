@@ -3,7 +3,7 @@
 
 I am a Computer Science researcher focusing on **Provable Security**, **Formal Verification**, and **End-to-End Encryption (E2EE)** architectures. My work bridges the gap between mathematical protocol modeling and low-level source code auditing. 
 
-Currently pursuing an MSc in Cybersecurity at Università degli Studi di Torino, with the goal of advancing research in Applied Cryptography and Post-Quantum protocols.
+Currently pursuing an MSc in Cybersecurity at University of Turin, with the goal of advancing research in Applied Cryptography and Post-Quantum protocols.
 
 ---
 
