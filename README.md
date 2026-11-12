@@ -14,7 +14,7 @@
 
 I am a Computer Science researcher focusing on **Provable Security**, **Formal Verification**, and **End-to-End Encryption (E2EE)** architectures. My work bridges the gap between mathematical protocol modeling and low-level source code auditing. 
 
-Currently pursuing an MSc in Cybersecurity at University of Turin, with the goal of advancing research in Applied Cryptography and Post-Quantum protocols.
+I hold a BSc in Computer Science from the University of Turin (110/110 cum laude), earned with a thesis on formal verification and security auditing of E2EE protocols. Currently pursuing an MSc in Cybersecurity, continuing research in Applied Cryptography and Post-Quantum protocols.
 
 ---
 
@@ -24,7 +24,7 @@ Currently pursuing an MSc in Cybersecurity at University of Turin, with the goal
 Conducted a complete formal verification and source-level audit of an E2EE protocol designed for social networks.
 - **Formal Methods:** Authored 10 models in **ProVerif** (translated and hardened from Verifpal) to test correspondence and secrecy properties under Dolev-Yao attacker models.
 - **Key Finding:** Designed a causal protocol ablation demonstrating that forward secrecy in the X3DH handshake critically depends on the $DH_4$ term, a property violated in the implementation.
-- **Code Audit:** Audited the cryptographic implementations across Android (Java), iOS (Swift), and Server (Python/Django) components, discovering **11 High-Severity zero-days** (including deterministic key/IV reuse and ciphertext splicing).
+- **Code Audit:** Audited the cryptographic implementations across Android (Java), iOS (Swift), and Server (Python/Django) components, identifying **11 High-Severity findings**, reported to the maintainer under a 90-day coordinated-disclosure window (technical detail withheld until the embargo lifts).
 
 ---
 
