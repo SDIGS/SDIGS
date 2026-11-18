@@ -22,7 +22,7 @@ I hold a BSc in Computer Science from the University of Turin (110/110 cum laude
 
 **[Verification and Analysis of Stick Protocol (Signal-based E2EE)](https://github.com/SDIGS/stick-protocol)** *(Under Embargo / Coordinated Disclosure)*  
 Conducted a complete formal verification and source-level audit of an E2EE protocol designed for social networks.
-- **Formal Methods:** Authored 10 models in **ProVerif** (translated and hardened from Verifpal) to test correspondence and secrecy properties under Dolev-Yao attacker models.
+- **Formal Methods:** Authored 11 models in **ProVerif** (translated and hardened from Verifpal) to test correspondence and secrecy properties under Dolev-Yao attacker models.
 - **Code Audit:** Audited the cryptographic implementations across Android (Java), iOS (Swift), and Server (Python/Django) components. Findings reported to the maintainer under a coordinated-disclosure window; technical detail withheld until the embargo lifts.
 
 ---
