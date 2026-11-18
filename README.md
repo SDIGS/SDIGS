@@ -20,7 +20,7 @@ I hold a BSc in Computer Science from the University of Turin (110/110 cum laude
 
 ### 🔬 Featured Research
 
-**[Verification and Analysis of Stick Protocol (Signal-based E2EE)](#)** *(Under Embargo / Coordinated Disclosure)*  
+**[Verification and Analysis of Stick Protocol (Signal-based E2EE)](https://github.com/SDIGS/stick-protocol)** *(Under Embargo / Coordinated Disclosure)*  
 Conducted a complete formal verification and source-level audit of an E2EE protocol designed for social networks.
 - **Formal Methods:** Authored 10 models in **ProVerif** (translated and hardened from Verifpal) to test correspondence and secrecy properties under Dolev-Yao attacker models.
 - **Key Finding:** Designed a causal protocol ablation demonstrating that forward secrecy in the X3DH handshake critically depends on the $DH_4$ term, a property violated in the implementation.
@@ -40,6 +40,3 @@ Conducted a complete formal verification and source-level audit of an E2EE proto
 - **Formal Verification:** `ProVerif` (Current) ➔ Migrating to `Tamarin Prover` for state-aware modeling.
 - **Applied Crypto:** Game-based cryptographic proofs, Lattice-based cryptography (PQC / LWE).
 - **System Environment:** `Arch Linux` / `Ubuntu` multi-boot, heavily customized CLI workflows (`Zsh`, `Starship`).
-
-📫 **Reach out:** [diego.bertola@edu.unito.it](mailto:diego.bertola@edu.unito.it)
-
